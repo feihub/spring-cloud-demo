@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: git@github.com:feihub/configdata.git
+          uri: git@github.com:feihub/spring-cloud-demo-config-data.git
           basedir: gitconfig
           default-label: master
           ignoreLocalSshSettings: true
